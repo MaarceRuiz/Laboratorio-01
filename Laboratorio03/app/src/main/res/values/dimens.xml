@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_gap">8dp</dimen>
+    <dimen name="medium_gap">16dp</dimen>
+    <dimen name="dimen_text">25sp</dimen>
+    <dimen name="value_dimen">70sp</dimen>
+    <dimen name="image_width">114dp</dimen>
+    <dimen name="height_image">133dp</dimen>
+    <dimen name="size_money">20sp</dimen>
+</resources>
