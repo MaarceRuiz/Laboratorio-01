@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio04</string>
+    <string name="inputName">Nombre</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="number">Número de teléfono</string>
+    <string name="save">GUARDAR</string>
+    <string name="n_mero_de_tel_fono">Número de Teléfono</string>
+    <string name="correo_electr_nico3">Correo Electrónico</string>
+</resources>
