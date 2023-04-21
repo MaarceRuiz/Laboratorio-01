@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeDes">19sp</dimen>
+    <dimen name="TopM">16dp</dimen>
+    <dimen name="MarginEn">16dp</dimen>
+    <dimen name="MarginSt">16dp</dimen>
+    <dimen name="WidthTex">0dp</dimen>
+    <dimen name="paddinAct">12dp</dimen>
+</resources>
