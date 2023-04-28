@@ -1,4 +1,4 @@
-package com.example.laboratorio05.ui
+package com.example.laboratorio05.ui.movie
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
