@@ -12,6 +12,7 @@ import com.example.laboratorio05.repositories.MovieRepository
 class MovieViewModel(private val repository: MovieRepository) : ViewModel() {
 
 
+
     var name = MutableLiveData("")
     var category = MutableLiveData("")
     var description = MutableLiveData("")
